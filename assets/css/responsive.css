@@ -2015,7 +2015,7 @@
       .mobile-responsive-nav .mean-container a.meanmenu-reveal span {
         background: var(--redColor);
         height: 4px;
-        margin-top: -6px;
+        margin-top: 10px;
         border-radius: 0;
         position: relative;
         top: 8px; }
