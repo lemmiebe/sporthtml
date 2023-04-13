@@ -46,7 +46,7 @@ body {
   font-family: var(--bodyFonts); }
 
 p {
-  color: white;
+  color: var(--bodyColor);
   margin-bottom: 10px; }
   p:last-child {
     margin-bottom: 0; }
