@@ -150,7 +150,7 @@
 }
 
 .bowling {
-  background-image: url("../images/breadcrumbs-img/bowling_bg3.png");
+  background-image: url("../images/breadcrumbs-img/bowling_bg.jpg");
 }
 
 .multi-sport {
@@ -2032,6 +2032,11 @@ img {
   background-color: #1a85c8;
   color: #fcfcfd;
   margin-right: 25px;
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .sign-digital-waiver {
+      margin-right: 8px !important;
+  }
 }
 
 .sign-digital-waiver:hover {
